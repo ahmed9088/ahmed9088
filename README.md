@@ -1,10 +1,15 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ahmed9088&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/ahmed9088)
 
-# Hey, I'm Ahmed 👋  
-### A passionate Full Stack Web Developer & Digital Creator 🌱  
-📍 **From Pakistan | Currently learning MERN & .NET**
+<div align="center">
+  <h1>Hey, I'm Ahmed 👋</h1>
+  <p>A passionate Full Stack Web Developer & Digital Creator 🌱</p>
+  <p>
+    📍 From Pakistan | 📚 Currently learning MERN & .NET  
+  </p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500">
+  <p>I specialize in building scalable and user-friendly web applications. I enjoy problem-solving, clean code, and creating beautiful designs. Let's build something amazing together! 🚀</p>
+</div>
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 I specialize in building scalable and user-friendly web applications. I enjoy problem-solving, clean code, and creating beautiful designs. Let's build something amazing together! 🚀
