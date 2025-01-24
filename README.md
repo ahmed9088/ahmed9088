@@ -51,16 +51,16 @@ I specialize in building scalable and user-friendly web applications. I enjoy pr
   <table>
     <tr>
       <td align="center">
-        🌟 **Total Stars Earned:** 12
+        🌟 Total Stars Earned: 12
       </td>
       <td align="center">
-        ⏳ **Total Commits (2025):** 67
+        ⏳ Total Commits (2025): 67
       </td>
       <td align="center">
-        🐛 **Total Issues:** 1
+        🐛 Total Issues: 1
       </td>
       <td align="center">
-        📅 **Contributed to (Last Year):** 1
+        📅 Contributed to (Last Year): 1
       </td>
     </tr>
   </table>
