@@ -46,10 +46,28 @@ I specialize in building scalable and user-friendly web applications. I enjoy pr
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed9088&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed9088&theme=radical" width="400" />
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        🌟 **Total Stars Earned:** 12
+      </td>
+      <td align="center">
+        ⏳ **Total Commits (2025):** 67
+      </td>
+      <td align="center">
+        🐛 **Total Issues:** 1
+      </td>
+      <td align="center">
+        📅 **Contributed to (Last Year):** 1
+      </td>
+    </tr>
+  </table>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+</div>
+
 
 ---
 
