@@ -65,7 +65,7 @@ I specialize in building scalable and user-friendly web applications. I enjoy pr
     </tr>
   </table>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmed9088&show_icons=true&theme=radical)
 </div>
 
 
