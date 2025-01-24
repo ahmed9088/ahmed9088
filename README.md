@@ -1,91 +1,69 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ahmed9088&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/ahmed9088)
 
-# Hello, I'm Ahmed 👋
-### A passionate Full Stack Web Developer & Digital Creator from Pakistan 🚀
+# Hey, I'm Ahmed 👋  
+### A passionate Full Stack Web Developer & Digital Creator 🌱  
+📍 **From Pakistan | Currently learning MERN & .NET**
 
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Coding](https://media.giphy.com/media/Y1XNxog9J4Rjfm93rV/giphy.gif)
 
-I specialize in web development and digital creation. Currently, I'm diving deep into MERN stack development to expand my skills and contribute more effectively to modern web applications. I'm also mastering **.NET** as part of my growth journey. I love problem-solving and creating seamless, user-friendly web experiences. 
-
----
-
-## 🔭 What I’m working on:
-- **Hostelker** – A complete solution for hostel management.
-- Currently learning **MERN stack** and **.NET** to enhance my backend and full-stack development expertise.
-
-## 🌱 Skills & Technologies:
-I have experience working with a variety of technologies. Here are some of my favorites:
-
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Figma
-- **Backend:** PHP, Node.js, Express.js, .NET
-- **Databases:** MySQL, SQL Server, MongoDB
-- **Tools:** Git, GitHub, VSCode, Adobe Illustrator
+I specialize in building scalable and user-friendly web applications. I enjoy problem-solving, clean code, and creating beautiful designs. Let's build something amazing together! 🚀
 
 ---
 
-## 🛠 Tools and Technologies:
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+## 💻 Technologies I Work With:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 </p>
 
-## 📫 Reach me at:
-- **Email:** [memon1ahmed@gmail.com](mailto:memon1ahmed@gmail.com)
-- **LinkedIn:** [Ahmed Saffar Memon](https://linkedin.com/in/ahmed-saffar-memon)
-- **Twitter:** [@ahmed11445237](https://twitter.com/ahmed11445237)
-- **Instagram:** [@ahmed_here0](https://instagram.com/ahmed_here0)
+---
+
+## 📚 What I'm Learning Right Now:
+- **MERN Stack**: Mastering MongoDB, Express.js, React, and Node.js to become a Full Stack Developer.
+- **.NET**: Expanding my backend development skills for enterprise-level applications.
+
+---
+
+## 🌟 Projects I've Built:
+- **[Hostelker](#)**: A complete hostel management system to streamline booking and operations.
+- **[PlantNest](#)**: An e-commerce web app for buying and selling plants.
+- **[Helping Hand](#)**: A charitable donation and volunteer management system for NGOs.
 
 ---
 
 ## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahmed9088&show_icons=true&locale=en&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmed9088&show_icons=true&locale=en)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed9088)
-
----
-
-## 🚀 Projects:
-- **[Hostelker](#)**: A hostel management system designed to help with booking, managing hostels, and connecting students with available accommodations.
-- **[PlantNest](#)**: An online plant nursery web application where users can explore and purchase plants.
-- **[Helping Hand](#)**: A charitable web app with a donation and volunteer management system for NGOs.
-
----
-
-## 🌐 Let's Connect:
-You can find me across these platforms, I’d love to engage and share ideas:
-<p align="left">
-  <a href="https://twitter.com/ahmed11445237" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ahmed-saffar-memon" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ahmed_here0" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed9088&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed9088&theme=radical" width="400" />
 </p>
 
 ---
 
-I’m constantly working on improving my skills and exploring new tools to build better, more efficient web applications. Feel free to reach out or connect with me on any of the listed platforms. Thanks for visiting my profile! 🚀
+## 📫 Let's Connect!
+- **Email**: [memon1ahmed@gmail.com](mailto:memon1ahmed@gmail.com)
+- **LinkedIn**: [Ahmed Saffar Memon](https://linkedin.com/in/ahmed-saffar-memon)
+- **Twitter**: [@ahmed11445237](https://twitter.com/ahmed11445237)
+- **Instagram**: [@ahmed_here0](https://instagram.com/ahmed_here0)
+
+---
+
+## 💥 Fun Facts About Me:
+- I love experimenting with new technologies and am constantly learning.
+- I enjoy contributing to open-source projects and collaborating with fellow developers.
+- In my free time, I dive into UI/UX design and graphic creation to perfect my digital skills.
+
+---
+
+I’m always open to collaborating on interesting projects or just chatting about the latest in tech. Reach out to me anytime! 😊
+
+---
+
+Made with ❤️ by Ahmed
