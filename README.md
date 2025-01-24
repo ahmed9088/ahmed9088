@@ -4,7 +4,8 @@
 ### A passionate Full Stack Web Developer & Digital Creator 🌱  
 📍 **From Pakistan | Currently learning MERN & .NET**
 
-![Coding](https://media.giphy.com/media/Y1XNxog9J4Rjfm93rV/giphy.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 I specialize in building scalable and user-friendly web applications. I enjoy problem-solving, clean code, and creating beautiful designs. Let's build something amazing together! 🚀
 
